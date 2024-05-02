@@ -484,8 +484,8 @@
                     <p class="lead">SRM Univresity Amaravathi</p>
                     <ul class="list-ico">
                       <li><span class="ion-ios-location"></span>Neeru konda village</li>
-                      <li><span class="ion-ios-telephone"></span> +91 8074357050</li>
-                      <li><span class="ion-email"></span> nanignaneswar38@gmail.com</li>
+                      <li><span class="ion-ios-telephone"></span> +91 7382523881</li>
+                      <li><span class="ion-email"></span> ansarshaik0848@gmail.com</li>
                     </ul>
                   </div>
                   <div class="socials">
